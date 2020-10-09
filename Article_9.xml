@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BodyCopy xmlns:cmis="http://docs.oasis-open.org/ns/cmis/core/200908/"
+        xmlns:cmisra="http://docs.oasis-open.org/ns/cmis/restatom/200908/"
+        xmlns:sf="urn:telerik:sitefinity:cmis">
+        <p>All commercial insurance lines except workers compensation saw year-over-year increases
+                in July, according to the IVANS Index, a regular premium renewal rate index compiled
+                by IVANS insurance exchange service.</p>
+        <p>Compared to July 2019, commercial auto, general liability, commercial property,
+                businessowners policy (BOP), and umbrella coverages experienced premium renewal rate
+                increases in July, while the average workers compensation premium decreased.</p>
+        <p>July premium renewal rate changes included the following.</p>
+        <ul>
+                <li><strong>Commercial auto</strong>: 5.1 percent increase, up from a 4.63 percent
+                        increase in June</li>
+                <li><strong>BOP</strong>: 4.38 percent increase, down from a 4.64 percent increase
+                        in June</li>
+                <li><strong>General liability</strong>: 3.45 percent increase, up from a 3.36
+                        percent increase in June</li>
+                <li><strong>Commercial property</strong>: 5.42 percent increase, up from a 5.23
+                        percent increase in June</li>
+                <li><strong>Umbrella</strong>: 3.23 percent increase, down from a 3.56 percent
+                        increase in June</li>
+                <li><strong>Workers compensation</strong>: 2.66 percent decrease, down from a 2.49
+                        percent decrease in June</li>
+        </ul>
+        <p>"Year-over-year, we continue to see the commercial lines premium renewal rates on the
+                rise, with the exception of workers compensation," Brian Wood, vice president of
+                Data Products Group, IVANS Insurance Services, said in a statement. "The data
+                insights of the IVANS Index continues to demonstrate a hardening market and acts as
+                further evidence of insurers taking rate to mitigate potential loss."</p>
+        <p>Released on a monthly basis, the IVANS Index analyzes more than 120 million data
+                transactions to measure premium renewal rate change year-over-year across the US
+                market.</p>
+</BodyCopy>
