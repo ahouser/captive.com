@@ -2,6 +2,7 @@
 <?xml-stylesheet type="text/css" href="../ConfigFiles/captive.css"?>
 <article id="c7ab50de-0e2e-645a-bd90-ff0000ef0c73">
     <h1>Key Concepts for Captive Insurance Reinsurance Contracts</h1>
+    <p><a href="#JumpTest">Test Internal Link to Bottom</a></p>
     <p class="summary">We take a look at some key concepts and reinsurance contract clauses that can
         help minimize the likelihood of a disagreement with your reinsurers. And, should these
         disagreements arise, the concepts and contract wording can provide additional protection to
@@ -116,7 +117,7 @@
     <p>
         <strong>Follow the Settlements Concept</strong>
     </p>
-    <p>The "follow the settlements" clause requires a reinsurer to afford its cedents'
+    <p><a name="JumpTest"/>The "follow the settlements" clause requires a reinsurer to afford its cedents'
         claims-related business decisions deference and may bind the reinsurer to the captive's
         objectively reasonable and good faith claims payments or settlement decisions. A follow the
         settlements clause can provide the captive with a wide degree of protections, including
